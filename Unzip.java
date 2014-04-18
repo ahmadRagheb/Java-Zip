@@ -9,7 +9,7 @@ import java.util.Scanner;
 import java.util.zip.ZipEntry;
 import java.util.zip.ZipInputStream;
 
-public class Zip
+public class Unzip
 {
 	public static String sourceName = "";
 	public static String destinationName = "";
